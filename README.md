@@ -4,10 +4,8 @@
 
 ## 课程资料
 
-|资料|链接|
-|:---:|:---|
-|教学大纲|[<img src="./image/presentation.png" height="15" />查看](./materials/outline.pdf)  [<img src="./image/download.png" height="15" />下载](./materials/outline.doc) |
-|实验手册|[<img src="./image/presentation.png" height="15" />查看](./materials/exper.pdf)  [<img src="./image/download.png" height="15" />下载](./materials/exper.doc) |
+- 教学大纲 [<img src="./image/presentation.png" height="15" />查看](./materials/outline.pdf)  [<img src="./image/download.png" height="15" />下载](./materials/outline.doc) 
+- 实验手册 [<img src="./image/presentation.png" height="15" />查看](./materials/exper.pdf)  [<img src="./image/download.png" height="15" />下载](./materials/exper.doc) 
 
 ## 课程内容
 
