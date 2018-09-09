@@ -7,8 +7,8 @@
 - 教学大纲 [<img src="./image/presentation.png" height="15" />查看](./materials/outline.pdf)  [<img src="./image/download.png" height="15" />下载](./materials/outline.doc) 
 - 实验手册 [<img src="./image/presentation.png" height="15" />查看](./materials/exper.pdf)  [<img src="./image/download.png" height="15" />下载](./materials/exper.doc) 
 - 环境安装
-	- JDK安装 [查看](./materials/exper/javase-install)
-	- Android Studio安装[查看](./materials/exper/androidstudio-install)
+	- JDK安装 [<img src="./image/presentation.png" height="15" />查看](./materials/exper/javase-install)
+	- Android Studio安装[<img src="./image/presentation.png" height="15" />查看](./materials/exper/androidstudio-install)
 
 ## 课程内容
 
