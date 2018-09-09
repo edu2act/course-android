@@ -102,7 +102,7 @@
 <img src="./image/25.png" height="230" />
 
 
-#### 24. 项目创建完成后，接下来便是运行项目了，运行Android项目有两种选择，一种是运行在真机环境下，另一种是运行在PC上的Android模拟器环境下。如果使用真机直接跳过本步骤（直接跳转到步骤33），如果使用Android模拟器，首先在群文件中下载`x86_64-26_r11.zip`文件（本文件是Android Studio 中的AVD模拟器创建时所需系统文件，下载速度较慢故采用离线安装方法，今后如想安装其它版本AVD模拟器可在线安装）。
+#### 24. 项目创建完成后，接下来便是运行项目了，运行Android项目有两种选择，一种是运行在真机环境下，另一种是运行在PC上的Android模拟器环境下。如果使用真机直接跳过本步骤（直接跳转到步骤34），如果使用Android模拟器，首先在群文件中下载`x86_64-26_r11.zip`文件（本文件是Android Studio 中的AVD模拟器创建时所需系统文件，下载速度较慢故采用离线安装方法，今后如想安装其它版本AVD模拟器可在线安装）。
 
 <img src="./image/29.png" height="130" />
 
@@ -134,23 +134,30 @@
 
 <img src="./image/33.png" height="400" />
 
-#### 32. 在AVD虚拟机启动之后，可以看到如下虚拟机界面。
+#### 32. 如启动虚拟机无法启动，并出现如下提示，请确保当前电脑CPU为Intel处理器，并且BIOS中的虚拟化功能已启用（启用方法根据自身电脑baidu解决），并双击运行`Android SDK安装目录\extras\intel\Hardware_Accelerated_Execution_Manager`目录下的`intelhaxm-android.exe`文件。
+
+```
+Emulator: emulator: ERROR: x86 emulation currently requires hardware acceleration
+```
+<img src="./image/39.png" height="200" />
+
+#### 33. 在AVD虚拟机启动之后，可以看到如下虚拟机界面。
 
 <img src="./image/34.png" height="400" />
 
-#### 33. 回到Android Studio界面，点击运行按钮。
+#### 34. 回到Android Studio界面，点击运行按钮。
 
 <img src="./image/35.png" height="70" />
 
-#### 34. 在弹出的`Select Deployment Target`窗口中，选择运行项目的设备（真机或虚拟机），然后点击`OK`按钮。
+#### 35. 在弹出的`Select Deployment Target`窗口中，选择运行项目的设备（真机或虚拟机），然后点击`OK`按钮。
 
 <img src="./image/36.png" height="200" />
 
-#### 35. 如果弹出如下`Instant Run`窗口，点击`Install and Continue`按钮，并等待下载完成即可。
+#### 36. 如果弹出如下`Instant Run`窗口，点击`Install and Continue`按钮，并等待下载完成即可。
 
 <img src="./image/37.png" height="100" />
 
-#### 36. 运行成功之后，便可以在你的设备上看到如下界面。
+#### 37. 运行成功之后，便可以在你的设备上看到如下界面。
 
 <img src="./image/38.png" height="400" />
 
