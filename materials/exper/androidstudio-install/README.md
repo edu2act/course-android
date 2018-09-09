@@ -35,7 +35,7 @@
 
 #### 7. 在如下提示框中，点击`Cancel`按钮。
 
-<img src="./image/06.png" height="150" /> 
+<img src="./image/06.png" height="100" /> 
 
 #### 8. 进入`Welcome`界面后，直接点击`Next`按钮。
 
@@ -83,7 +83,7 @@
 
 #### 19. 如果此时你的窗口中显示下面浮动窗口，请耐心等待下载完成，因为是第一次创建项目，Android Studio会进行Gradle工具下载。（如果按照前面步骤的要求进行了断网操作，此处是无需下载的，为时已晚，耐心等待。）
 
-<img src="./image/19.png" height="100" /> 
+<img src="./image/19.png" height="70" /> 
 
 #### 20. 项目创建成功时，会显示下面窗口，可直接点击`Close`按钮关闭浮在最上层的`Tip of the Day`窗口。
 
@@ -108,11 +108,11 @@
 
 #### 25. 在解压后的文件中找到`x86`文件夹，然后拷贝到`Android SDK目录\system-images\android-26\default\`文件夹下，如图所示。
 
-<img src="./image/30.png" height="100" />
+<img src="./image/30.png" height="70" />
 
 #### 26. 关闭Android Studio，然后重新打开Android Studio，点击右上角的`AVD Manager`按钮。
 
-<img src="./image/26.png" height="100" />
+<img src="./image/26.png" height="70" />
 
 #### 27. 在`Your Virtual Devices`界面，点击`Create Virtual Device`按钮，创建一个AVD虚拟机。
 
@@ -140,11 +140,11 @@
 
 #### 33. 回到Android Studio界面，点击运行按钮。
 
-<img src="./image/35.png" height="80" />
+<img src="./image/35.png" height="70" />
 
 #### 34. 在弹出的`Select Deployment Target`窗口中，选择运行项目的设备（真机或虚拟机），然后点击`OK`按钮。
 
-<img src="./image/36.png" height="80" />
+<img src="./image/36.png" height="200" />
 
 #### 35. 如果弹出如下`Instant Run`窗口，点击`Install and Continue`按钮，并等待下载完成即可。
 
