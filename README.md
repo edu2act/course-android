@@ -4,11 +4,10 @@
 
 ## 课程资料
 
-- 教学大纲 [<img src="./image/presentation.png" height="15" />查看](./materials/outline.pdf)  [<img src="./image/download.png" height="15" />下载](./materials/outline.doc) 
-- 实验手册 [<img src="./image/presentation.png" height="15" />查看](./materials/exper.pdf)  [<img src="./image/download.png" height="15" />下载](./materials/exper.doc) 
-- 环境安装
-	- [JDK安装](./materials/exper/javase-install)
-	- [Android Studio安装](./materials/exper/androidstudio-install)
+- [教学大纲](./materials/outline.pdf)    [<img src="./image/download.png" height="15" />](./materials/outline.doc) 
+- [实验手册](./materials/exper.pdf)  [<img src="./image/download.png" height="15" />](./materials/exper.doc) 
+- [环境配置](./materials/exper/development-environment.md)
+- [常见问题](./materials/exper/problem.md)
 
 ## 课程内容
 
