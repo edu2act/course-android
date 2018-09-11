@@ -4,7 +4,7 @@
 
 #### 常见问题：无法创建新项目
 
-如创建新项目点击`Finsh`后无反应，并提示如下类似信息，则说明Android Studio中创建新项目的模板文件损坏。
+如创建新项目点击`Finish`后无反应，并提示如下类似信息，则说明Android Studio中创建新项目的模板文件损坏。
 
 ```
 com.android.tools.idea.templates.FreemarkerUtils$TemplateProcessingException:
