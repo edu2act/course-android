@@ -1,4 +1,4 @@
-<img src="./image/logo.png" height="50" /> 
+<img src="../../../image/logo.png" height="50" /> 
 
 # JDK安装教程
 
