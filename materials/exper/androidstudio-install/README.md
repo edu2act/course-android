@@ -106,7 +106,7 @@
 
 <img src="./image/29.png" height="130" />
 
-#### 25. 在解压后的文件中找到`x86`文件夹，然后拷贝到`Android SDK目录\system-images\android-26\default\`文件夹下，如图所示。
+#### 25. 在解压后的文件中找到`x86`文件夹，然后拷贝到`Android SDK目录\system-images\android-26\default\`文件夹下，文件夹不存在则手动创建，如图所示。
 
 <img src="./image/30.png" height="70" />
 
