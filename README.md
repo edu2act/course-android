@@ -4,7 +4,8 @@
 
 ## 课程资料
 
-- [教学大纲](./materials/outline.pdf)    [<img src="./image/download.png" height="15" />下载](./materials/outline.doc) 
+- [教学大纲](./materials/outline.pdf)    [<img src="./image/download.png" height="15" />下载](./materials/outline.doc)
+- [进度计划](./materials/schedule.pdf)    [<img src="./image/download.png" height="15" />下载](./materials/schedule.doc)
 - [实验手册](./materials/exper.pdf)  [<img src="./image/download.png" height="15" />下载](./materials/exper.doc) 
 - [环境配置](./materials/exper/development-environment.md)
 - [常见问题](./materials/exper/problem.md)
